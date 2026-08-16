@@ -117,6 +117,8 @@ We intentionally **exclude** pure Atari / MuJoCo / classic RL benchmarks, and we
 
 - **[WorkArena](https://github.com/ServiceNow/WorkArena)** *(ServiceNow)* — Enterprise SaaS workflows on the ServiceNow platform; **WorkArena-L1** has 19,912 instances of 33 atomic tasks; **WorkArena++** adds 682 compositional tasks.
 
+- **[ClawBench](https://github.com/reacher-z/ClawBench)** *(arXiv 2026)* — Containerized live-web environment with 153 write-heavy tasks, final-request interception, and trace-grounded binary evaluation for browser agents. 📄 [Paper](https://arxiv.org/abs/2604.08523)
+
 ---
 
 ## Operating System / Desktop / Mobile Environments
