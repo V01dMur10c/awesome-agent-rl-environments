@@ -155,6 +155,8 @@ We intentionally **exclude** pure Atari / MuJoCo / classic RL benchmarks, and we
 
 - **[TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany)** *(CMU)* — Self-contained simulated software company (internal sites, data, employees). Best agent ~30% on consequential business tasks. 📄 [Paper](https://arxiv.org/abs/2412.14161)
 
+- **[beancount-ledger](https://github.com/gultekinhasancan79/beancount-ledger)** — Multi-turn bookkeeping and cash-application environment built on verifiers, in which an agent uses file, grep and ledger tools to repair a Beancount ledger from accounting evidence and receives a deterministic reward with the criteria behind it.
+
 ---
 
 ## Scientific & Research Environments
