@@ -195,6 +195,8 @@ We intentionally **exclude** pure Atari / MuJoCo / classic RL benchmarks, and we
 
 - **[Crafter](https://github.com/danijar/crafter)** *(Danijar Hafner)* — Minecraft-inspired 2D open-world survival benchmark. Gym API; popular as a tractable open-ended task in LLM-agent papers.
 
+- **[SECOND STRIKE](https://github.com/KyleClouthier/secondstrike-openenv)**: OpenEnv environment where one model commands a nation in a real-time world war against 42 AI nations, with pacts, betrayals and a nuclear doomsday clock. The reward comes from the game server's own record of the war (no LLM judge), presets include `safe_win` (ending the world scores 0), and the same war is on the Prime Intellect Environments Hub as `clouthier-labs/second-strike`.
+
 ---
 
 ## Safety / Adversarial Environments
