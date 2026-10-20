@@ -95,6 +95,8 @@ We intentionally **exclude** pure Atari / MuJoCo / classic RL benchmarks, and we
 
 - **[SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os)** *(Scale AI)* — Enterprise-grade long-horizon tasks: 1,865 problems from 41 actively maintained repos. Top models score ~23% (vs. ~70% on Verified). 📄 [Paper](https://arxiv.org/abs/2509.16941)
 
+- **[YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark)** — Thin trusted-host experiment runner for coding-agent attempts: each attempt starts from a fresh repository with reviewed pre-solution files, and retained outputs are scored against frozen deterministic criteria (with optional later re-judging), for comparing models, harnesses and configurations.
+
 ---
 
 ## Web / Browser Environments
