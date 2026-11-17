@@ -97,6 +97,8 @@ We intentionally **exclude** pure Atari / MuJoCo / classic RL benchmarks, and we
 
 - **[YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark)** — Thin trusted-host experiment runner for coding-agent attempts: each attempt starts from a fresh repository with reviewed pre-solution files, and retained outputs are scored against frozen deterministic criteria (with optional later re-judging), for comparing models, harnesses and configurations.
 
+- **[swe-rl-envs](https://github.com/gultekinhasancan79/swe-rl-envs)** — Two small authored coding-agent environments with seeded defects, held-out tests kept out of the agent's container, and a nine-gate verifier that runs each candidate patch offline in a fresh digest-pinned Docker container and returns PASS/FAIL.
+
 ---
 
 ## Web / Browser Environments
